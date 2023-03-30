@@ -33,4 +33,4 @@ Following are annotate images for each after training:
 ![image](/images/Woody21.jpg) ![image](/images/Woody22.jpg) ![image](/images/Woody24.jpg) ![image](/images/buzz25.jpg) 
 
 Trained model is used to annotate small clip:
-Youtube [link] https://www.youtube.com/watch?v=ET9em87mEII
+Youtube [link](https://www.youtube.com/watch?v=ET9em87mEII)
