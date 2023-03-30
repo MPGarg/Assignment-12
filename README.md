@@ -24,5 +24,6 @@ Following classes (25 images each) were trained on YOLOV3:
 
 Following are annotate images for each after training:
 
-![image](/images/Ratatouille22.jpg)
-![image](/images/Ratatouille24.jpg)
+![image](/images/Ratatouille22.jpg) ![image](/images/Ratatouille24.jpg) ![image](/images/Ratatouille32.jpg) ![image](/images/Ratatouille43.jpg) 
+![image](/images/Ratatouille44.jpg) ![image](/images/Ratatouille45.jpg) ![image](/images/Ratatouille46.jpg) ![image](/images/Ratatouille47.jpg) 
+
