@@ -16,3 +16,13 @@ Annotated Image:
 
 ## Part 2
 
+Following classes (25 images each) were trained on YOLOV3:
+* Woody
+* Buzz Lightyear
+* Alfredo
+* Remy
+
+Following are annotate images for each after training:
+
+![image](/images/Ratatouille22.jpg)
+![image](/images/Ratatouille24.jpg)
